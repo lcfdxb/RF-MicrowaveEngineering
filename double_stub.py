@@ -31,8 +31,8 @@
 *  ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 *  POSSIBILITY OF SUCH DAMAGE.
 """
-# single_stub.py
-# For calculating single stub tuning
+# double_stub.py
+# For calculating double stub tuning
 # Also will plot smith chart
 #
 import numpy as np
